@@ -1,0 +1,64 @@
+[
+  {
+      "image": "https://i.pinimg.com/564x/6c/e7/ca/6ce7cab5019265a02cd9d3c99688fc46.jpg" ,
+      "price": 850,
+      "productName": "Balance",
+      "color": "cream",
+      "id": "001"
+  },
+      
+        
+  {
+      "image": "https://i.pinimg.com/564x/a1/b1/74/a1b174ec1dbabbc6749a840e6e62aad0.jpg" ,
+      "price": 750,
+      "productName": "Volture strock",
+      "color": "light blue",
+      "id": "002"
+  },
+  {
+      "image": "https://i.pinimg.com/736x/98/a8/01/98a8012a2da4a384eb112f69a6649d7f.jpg" ,
+      "price": 900,
+      "productName": "onelles",
+      "color": "voilate blue",
+      "id": "003"
+  },
+  {
+      "image": "https://i.pinimg.com/564x/41/fc/01/41fc01103293f9ec7026800e96ee3ddb.jpg" ,
+      "price": 750,
+      "productName": "sea ocean",
+      "color": "dark purple",
+      "id": "004"
+  },
+  {
+      "image": "https://i.pinimg.com/564x/4f/8a/1b/4f8a1ba0b8dece742d2d705047b010d6.jpg" ,
+      "price": 800,
+      "productName": "change",
+      "color": "blue",
+      "id": "005"
+  },
+  
+    {
+      "image": "https://i.pinimg.com/564x/4f/30/74/4f307467618de6736d275021deec56f9.jpg" ,
+      "price": 950,
+      "productName": "quk silver",
+      "color": "black",
+      "id": "006"
+  },
+    {
+      "image": "https://i.pinimg.com/736x/85/b1/1c/85b11cea080ddac62f940061df992f17.jpg" ,
+      "price": 1150,
+      "productName": "beach",
+      "color": "black",
+      "id": "007"
+      
+  },
+    
+  {
+      "image": "https://i.pinimg.com/736x/01/ff/6d/01ff6da5748312d6bad9eddc3f3ffb25.jpg" ,
+      "price": 1050,
+      "productName": "o neill",
+      "color": "black",
+      "id": "008"
+  }
+    
+]
